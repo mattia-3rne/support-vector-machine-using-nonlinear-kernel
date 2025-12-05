@@ -142,9 +142,9 @@ This project does not perform a brute-force comparison of all kernels on all dat
 
 ## 📂 Project Structure
 
-* `generate_linear.py`: Helper logic for linear data generation (used by notebooks).
-* `generate_nonlinear.py`: Helper logic for circle data generation (used by notebooks).
+* `linear_data_generation.py`: Python script for linear data generation.
+* `nonlinear_data_generation.py`: Python script for nonlinear data generation.
 * `svm_linear.ipynb`: Notebook implementation of the linear case.
-* `svm_nonlinear.ipynb`: Notebook implementation of the non-linear RBF case.
+* `svm_nonlinear.ipynb`: Notebook implementation of the nonlinear case.
 * `requirements.txt`: Python package dependencies.
 * `README.md`: Project documentation.
