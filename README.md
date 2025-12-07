@@ -150,8 +150,8 @@ This project does not perform a brute-force comparison of all kernels on all dat
 ## 📂 Project Structure
 
 * `linear_data_generation.py`: Python script for linear data generation.
-* `non_linear_data_generation.py`: Python script for non_linear data generation.
+* `non_linear_data_generation.py`: Python script for non-linear data generation.
 * `svm_linear.ipynb`: Notebook implementation of the linear case.
-* `svm_non_linear.ipynb`: Notebook implementation of the non_linear case.
+* `svm_non_linear.ipynb`: Notebook implementation of the non-linear case.
 * `requirements.txt`: Python package dependencies.
 * `README.md`: Project documentation.
